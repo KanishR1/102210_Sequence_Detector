@@ -1,1 +1,1 @@
-# 102210_Sequence_Detector
+# 102210_Sequence_Detector - Mealy FSM
